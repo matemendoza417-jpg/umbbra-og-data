@@ -1,0 +1,13 @@
+{
+  "weights": {
+    "playTime": 40,
+    "kills": 20,
+    "pvpKd": 15,
+    "deaths": 5,
+    "blocksBroken": 5,
+    "blocksPlaced": 5,
+    "totalDistance": 5,
+    "damageDealt": 5
+  },
+  "updatedAt": "2026-11-13T23:40:46.258Z"
+}
