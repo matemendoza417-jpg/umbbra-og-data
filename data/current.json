@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "updatedAt": "2026-11-14T09:59:42.223Z",
   "source": "Edición manual",
   "format": "vanilla",
@@ -8,7 +8,7 @@
       "id": "13ea9aee-2be4-3502-87a6-c2997f044cc7",
       "name": "Uaa26",
       "uuid": "13ea9aee-2be4-3502-87a6-c2997f044cc7",
-      "playTime": 7.2e+21,
+      "playTime": 324,
       "kills": 2,
       "playerKills": 2,
       "mobKills": 0,
