@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-11-13T23:47:27.840Z",
+  "version": 2,
+  "updatedAt": "2026-11-14T09:59:42.223Z",
   "source": "2 archivos de estadísticas",
   "format": "vanilla",
   "players": [
@@ -8,7 +8,7 @@
       "id": "13ea9aee-2be4-3502-87a6-c2997f044cc7",
       "name": "Uaa26",
       "uuid": "13ea9aee-2be4-3502-87a6-c2997f044cc7",
-      "playTime": 6365,
+      "playTime": 318,
       "kills": 2,
       "playerKills": 2,
       "mobKills": 0,
@@ -43,7 +43,7 @@
       "id": "7f4deaef-4624-3edc-bb10-ceb97fc8402e",
       "name": "Uaaqueque",
       "uuid": "7f4deaef-4624-3edc-bb10-ceb97fc8402e",
-      "playTime": 6221,
+      "playTime": 311,
       "kills": 1,
       "playerKills": 1,
       "mobKills": 0,
